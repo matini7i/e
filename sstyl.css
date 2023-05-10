@@ -67,11 +67,21 @@ background-color: red;
 .er{
 text-decoration: none;;
 color: red;
+border: 2px solid blue;
+background-color:wheat;
+border-radius: 11px;
+
 }
 
 .y4{
-font-size: 50px;
+border: 2px solid black;
 
 }
 
+.t{
+border: 2px solid black;
+border-radius: 10px;
+background-color: darkkhaki;
 
+
+}
