@@ -93,8 +93,8 @@ color: red;
 border: 2px solid blue;
 background-color:wheat;
 border-radius: 11px;
-width: 590px;
-height: 59px;
+
+
 }
 
 .y4{
@@ -107,5 +107,10 @@ border: 2px solid black;
 border-radius: 10px;
 background-color: darkkhaki;
 
+
+}
+.e2{
+width: 590px;
+height: 59px;
 
 }
