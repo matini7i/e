@@ -51,7 +51,7 @@ text-shadow: 2PX 2PX 5PX red;
     border: 2px solid black;
     background:url(image/23729458-6345-b__3073.jpg);
     margin-top: 5px;
-    border-radius: 4px;
+    /* border-radius: 4px; */
   }
 
   .menu li a:hover {
@@ -107,4 +107,10 @@ text-shadow: 2px 2px 5px rgb(255, 0, 0);
 .fff{
 
     text-shadow: 2px 2px 5px red;
+}
+.lll{
+text-shadow: 2px 2px 5px red;
+border: 2px solid red;
+border-radius: 3px;
+background: url(image/صص.jpg);
 }
