@@ -88,7 +88,7 @@ color: red;
 font-size: 18px;
 border: 2px solid rebeccapurple;
 border-radius: 6px;
-background: url(image/23729458-6345-b__3073.jpg);
+background: url(image/images.jpg);
 text-shadow: 2px 2px 5px red;
   }
   .vvr{
@@ -100,7 +100,7 @@ margin-top: -55px;
 font-size: x-large;
 color: red;
 text-decoration: none;
-
+text-shadow: 2px 2px 5px rgb(255, 0, 0);
   }
 
 .fff{
