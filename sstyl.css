@@ -1,116 +1,44 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 body{
-
-background:url(image/صص.jpg);
-
-font-family: open ' Sans' serif, ;
-overflow: hidden;
+   
+background:   url(image/Counter-Strike-Global-Offensive-images-Full-HD-26.jpg );
 
 
 
 }
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
 
+  /* استایل لوگو */
+  .logo {
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+  }
 
+  /* استایل منو */
+  .menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 
-ul{
+  }
 
-padding: 0;
-margin: 0;
-border: 2px solid red;
-border-radius: 10px;
-list-style-type: none;
-background:url(image/images.jpg);
-position: relative;
-width:10000px ;
+  .menu li {
+    float: left;
+  }
 
+  .menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
 
-
-}
-li{
-padding: 14px 16px;
-list-style-type:ّ none;
- text-align: center;
-display: inline-block;
-
-}
-
-.m35{
-background-color:#999;
-
-
-
-}
-
-.m34{
-background-color:#999;
-
-
-}
-
-.m36{
-
-
-
-
-background-color:#999;
-}
-
-.m37{
-    
-    background-color:#999;
-
-}
-
-li a{
-text-decoration: none;
-
-
-
-}
-li a:hover{
-background-color: red;
-
-
-
-}
-.er{
-text-decoration: none;;
-color: red;
-border: 2px solid blue;
-background-color:wheat;
-border-radius: 11px;
-
-
-}
-
-.y4{
-border: 2px solid black;
-
-}
-
-.t{
-border: 2px solid black;
-border-radius: 10px;
-background-color: darkkhaki;
-
-
-}
-.e2{
-width: 590px;
-height: 59px;
-
-}
+  .menu li a:hover {
+    background-color: #111;
+  }
