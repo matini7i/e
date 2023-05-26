@@ -47,10 +47,10 @@ text-shadow: 2PX 2PX 5PX red;
     padding: 14px 16px;
     text-decoration: none;
     color: red;
-   
+   text-shadow: 2px 2px 5px red;
     border: 2px solid black;
     background:url(image/23729458-6345-b__3073.jpg);
-    margin-top: 3px;
+    margin-top: 5px;
   }
 
   .menu li a:hover {
@@ -69,7 +69,7 @@ background: url();
 
   }
   .n2{
-
+background: url(image/1476709_big.jpg);
 
   }
   .n3{
@@ -82,3 +82,28 @@ background: url();
 
 
   }
+  .bhb{
+width: 352px ;
+color: red;
+font-size: 18px;
+border: 2px solid rebeccapurple;
+border-radius: 6px;
+background: url(image/23729458-6345-b__3073.jpg);
+text-shadow: 2px 2px 5px red;
+  }
+  .vvr{
+width: 200px;
+height: 300px;
+margin-top: -55px;
+  }
+  .kkk{
+font-size: x-large;
+color: red;
+text-decoration: none;
+
+  }
+
+.fff{
+
+    text-shadow: 2px 2px 5px red;
+}
