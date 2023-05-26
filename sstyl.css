@@ -1,9 +1,6 @@
 body{
    
-background:   url(image/Screenshot_20230526_174711_Google.jpg );
-
-
-
+background:   url(image/Screenshot_20230526_174711_Google.jpg ) no-repeat;
 }
 header {
     background-color: #333;
@@ -15,7 +12,7 @@ header {
   .logo {
     font-size: 20px;
     font-weight: bold;
-    color: red;
+   color: rebeccapurple;
   }
 
   /* استایل منو */
@@ -40,5 +37,34 @@ header {
   }
 
   .menu li a:hover {
+   color: red;
     background-color: #111;
+  }
+
+  .hyh{
+background: url(image/images.jpg);
+
+
+
+
+  }
+  .n1{
+font-size: large;
+color: red;
+
+  }
+  .n2{
+font-size: large;
+color: red;
+
+  }
+  .n3{
+    font-size: large;
+    color: red;
+  }
+  
+  .n4{
+color: red;
+
+font-size: large;
   }
