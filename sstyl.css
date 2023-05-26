@@ -1,6 +1,7 @@
-body{
-   
-background:   url( image/cfgdl.rozblog\ \(7\).png);
+header{@media only screen and (max-width: 600px) }    
+    
+    body{
+background:   url( image/cfgdl.rozblog\ \(7\).png);;
 }
 header {
     background-color: #333;
@@ -17,7 +18,13 @@ header {
    border-radius: 6px;
    width: 196px;
    background-color: red;
+text-align: center;
+
+
+
+
   }
+
 
   /* استایل منو */
   .menu {
@@ -40,6 +47,9 @@ header {
     text-decoration: none;
     color: red;
     font-size: 17px;
+    border: 2px solid black;
+    background:url(image/صص.jpg);
+    margin-top: 3px;
   }
 
   .menu li a:hover {
